@@ -1,0 +1,13 @@
+#contributor : zexin zheng <zzz.kagari@gmail.com>
+#name : <!DOCTYPE html><html>...</html>
+# --
+<!DOCTYPE html>
+<html lang="${1:en}">
+<head>
+  <meta charset="${2:UTF-8}">
+  <title>$3</title>
+</head>
+<body>
+  $4
+</body>
+</html>
